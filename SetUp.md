@@ -1,5 +1,7 @@
 # Set Up Guide
 
+[Video](https://youtu.be/n6d4KHSKqGk?t=615)
+
 ## Spotify
 
 * Create a [Spotify Application](https://developer.spotify.com/dashboard/applications)
@@ -77,7 +79,7 @@ If you have issues setting up, try following this [guide](https://youtu.be/n6d4K
 
 Followed the guide and still having problems?
 Try checking out the functions tab in vercel, linked as:
-```https://vercel.com/{name}/spotify/{build}/functions``` 
+```https://vercel.com/{name}/spotify/{build}/functions```
 
 <details><summary>Which looks like-</summary>
 
